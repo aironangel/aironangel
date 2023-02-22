@@ -1,4 +1,10 @@
 ### Hi there 👋
+Good to find you here.
+This is my personal repositories, where I should place my projects, my ideas, my experiments on new technologies.
+
+- 📫 you can join me via:
+
+
 
 <!--
 **aironangel/aironangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
